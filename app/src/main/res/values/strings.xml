@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Space Wars</string>
+    <string name="intro">      Добро пожаловать в Space Wars!\n
+                         Ты играешь за космический корабль, и твоя задача\n
+                         не давать вражеским кораблям проходить мимо тебя,\n
+                         иначе будет плохо! Удачи!\n</string>
+    <string name="but_text">Играть</string>
+</resources>
